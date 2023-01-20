@@ -1,5 +1,5 @@
 # ManiaPad
-4 button macro pad for use in rhythm games, primarily for osu!/osu!Mania
+4 button macro pad for use in rhythm games, primarily for osu!/osu!Mania, includes physical CAD and pcb design
 
 ### Parts List
 * pcb based on the one in this repo
